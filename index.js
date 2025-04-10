@@ -12,6 +12,8 @@ function mostFrequentNumber(arr) {
   
     return maxNum;
   }
+
+// lam them cho t cai ham tinh binarySearch nua nhanh len.
   
   console.log(mostFrequentNumber([1, 3, 3, 2, 1, 3, 4, 2, 2, 2])); // Output: 2
   
